@@ -1,0 +1,161 @@
+ManifestFileVersion: 0
+CRC: 2801129139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f9a1f50b5dd5fef9a1cc7566379b2ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 62256ecc616163162db9c4ff8147380a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 1839735485
+  Script: {instanceID: 0}
+Assets:
+- Assets/ModMenu/SeventysModMenu.prefab
+- Assets/ModMenu/stormbit.png
+- Assets/ModMenu/karambit.mat
+- Assets/ModMenu/trollbitimage.png
+- Assets/ModMenu/bayonetskin.png
+- Assets/ModMenu/Material_1_Emissive.png
+- Assets/ModMenu/modkarabmbit.mat
+- Assets/ModMenu/menumat.mat
+- Assets/ModMenu/trail.mat
+- Assets/ModMenu/GorillaSmg001.prefab
+- Assets/ModMenu/karambitmod 1.png
+- Assets/ModMenu/GamerCube.prefab
+- Assets/ModMenu/GorillaKatana12234.prefab
+- Assets/ModMenu/karambitdoppler.png
+- Assets/ModMenu/trail1.mat
+- Assets/ModMenu/bayonetMat.mat
+- Assets/ModMenu/Metallic.png
+- Assets/ModMenu/pepebit.png
+- Assets/ModMenu/karanbit.obj
+- Assets/ModMenu/styledBit.mat
+- Assets/ModMenu/Uzi SMG Gun Shot Fire Sound Effect.mp3
+- Assets/ModMenu/Material_2_Base_Color 1.png
+- Assets/ModMenu/knifes_final.fbx
+- Assets/ModMenu/Depth.shader
+- Assets/ModMenu/metralhadoraMetreca.fbx
+- Assets/ModMenu/nife.mat
+- Assets/ModMenu/MlTXZ.png
+- Assets/ModMenu/Material_1_Base_Color.png
+- Assets/ModMenu/2 Tone Dissolve.shader
+- Assets/ModMenu/nifetexture.png
+- Assets/ModMenu/BaseColor.png
+- Assets/ModMenu/karambitgem 1.png
+- Assets/ModMenu/spiritbit.mat
+- Assets/ModMenu/cardbit.mat
+- Assets/ModMenu/Sentinel_Gun.fbx
+- Assets/ModMenu/Untitled197_20220622231742.png
+- Assets/ModMenu/trollbit.mat
+- Assets/ModMenu/Nerf_Jolt_LowPoly.fbx
+- Assets/ModMenu/garfbit.png
+- Assets/ModMenu/blastershot.mat
+- Assets/ModMenu/metralhadoraMetrecaTexture.png
+- Assets/ModMenu/Untitled196_20220622222849.png
+- Assets/ModMenu/gem.mat
+- Assets/ModMenu/melonbit.png
+- Assets/ModMenu/matrixbit.mat
+- Assets/ModMenu/stainlessbit.mat
+- Assets/ModMenu/LaserBullet1.prefab
+- Assets/ModMenu/Base_Emissive.png
+- Assets/ModMenu/GorillaKarambit.prefab
+- Assets/ModMenu/sombra2.mat
+- Assets/ModMenu/GorillaNerf.prefab
+- Assets/ModMenu/sombra.mat
+- Assets/ModMenu/Material_2_Emissive.png
+- Assets/ModMenu/Sketchfab.fbx
+- Assets/ModMenu/pauseButton.fbx
+- Assets/ModMenu/click.mp3
+- Assets/ModMenu/Material_2_Base_Color.png
+- Assets/ModMenu/ButtonMat.mat
+- Assets/ModMenu/nerfpew.mat
+- Assets/ModMenu/karambitemap.png
+- Assets/ModMenu/pew.mp3
+- Assets/ModMenu/Nerf_Jolt_LowPoly_Nerf_Jolt_Material_BaseC.png
+- Assets/ModMenu/karambitnebula.mat
+- Assets/ModMenu/NerfDart.prefab
+- Assets/ModMenu/garfbit.mat
+- Assets/ModMenu/blastershot.wav
+- Assets/ModMenu/Untitled200_20220624165015.png
+- Assets/ModMenu/pinebit.mat
+- Assets/ModMenu/Lambert.shader
+- Assets/ModMenu/stormbit.mat
+- Assets/ModMenu/pepebit.mat
+- Assets/ModMenu/stainless.png
+- Assets/ModMenu/Wood-texture-bacground-horizontal-nerves-patternpictures-1213-1600x1063.jpg
+- Assets/ModMenu/doppler.mat
+- Assets/ModMenu/SombraSmg.prefab
+- Assets/ModMenu/GorillaBayonet.prefab
+- Assets/ModMenu/BulletWithTrail.prefab
+- Assets/ModMenu/cardboard.png
+- Assets/ModMenu/Normal.png
+- Assets/ModMenu/ghostBit.mat
+- Assets/ModMenu/0d42eeb83ad3a56c97468d69721b2c18 (1).jpg
+- Assets/ModMenu/karambitpine.png
+- Assets/ModMenu/Sine Vertex Displacement.shader
+- Assets/ModMenu/karambitgem.png
+- Assets/ModMenu/Big Pixel demo SDF.asset
+- Assets/ModMenu/karambit.png
+- Assets/ModMenu/melonbit.mat
+- Assets/ModMenu/arrowButton.fbx
+- Assets/ModMenu/karambitnebula.png
+- Assets/ModMenu/Big Pixel demo.otf
+Dependencies: []

@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1754671138
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bananafiend
+      Dependencies: {}
+    Info_1:
+      Name: modmenu
+      Dependencies: {}
